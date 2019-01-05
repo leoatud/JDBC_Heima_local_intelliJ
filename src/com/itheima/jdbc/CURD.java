@@ -8,6 +8,9 @@ public class CURD {
 
     public static void main(String[] args) throws Exception{
             delete();
+            create();
+            update();
+            read();
 
     }
 
