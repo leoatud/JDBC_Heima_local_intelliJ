@@ -13,6 +13,9 @@ public class Base {
     }
 
 
+
+    private String haha = "this is the version control test use";
+
     static void template() throws Exception{
 
         Connection conn = null;
