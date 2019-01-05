@@ -7,10 +7,7 @@ import java.sql.Statement;
 public class CURD {
 
     public static void main(String[] args) throws Exception{
-            delete();
-            create();
-            update();
-            read();
+        System.out.println("why you are not offering auto fill");
 
     }
 
